@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DayNightMode</string>
+    <string name="dark_mode">Night Mode!</string>
+</resources>
